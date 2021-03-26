@@ -2,6 +2,7 @@
   "name": "SphinX",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://not-akm.github.io/SphinX2/",
   "dependencies": {
     "@agney/react-loading": "^0.1.2",
     "@material-ui/core": "^4.11.2",
