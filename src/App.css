@@ -1,0 +1,19 @@
+*{
+  font-family: 'Audiowide',
+  cursive;
+}
+html {
+  scroll-behavior: smooth;
+}
+
+.App { 
+  text-align: center;
+}
+
+.projects-grid-1 {
+  display: flex;
+  margin: 4%;
+}
+.projects-grid-2 {
+  display: flex;
+}

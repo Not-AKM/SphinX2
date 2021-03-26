@@ -1,0 +1,17 @@
+.rankscontent {
+    background-image: linear-gradient(60deg, #b14de0 0%, #1f53e2 100%);
+    padding: 2% 10% 2% 10%;
+    margin: 0% 10% 0% 10%;
+}
+
+.ranksimages {
+    padding: 4% 20% 4% 20%;
+    margin: 0% 10% 0% 10%;
+}
+
+.tiers {
+    background-image: linear-gradient(60deg, #0a5dca 0%, #200fbe 100%);
+    margin: 1%;
+    padding: 5%;
+    color: black;
+}
